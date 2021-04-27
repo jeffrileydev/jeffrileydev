@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 ...and **100 Hours Project**
+- 👯 ...and working on my **100 Hours Project**
 
 - 👨‍💻 All of my projects are available at [jeffriley.dev](jeffriley.dev)
 
