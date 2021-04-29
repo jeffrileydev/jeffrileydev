@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/jeffrileydev" target="blank"><img src="https://img.shields.io/twitter/follow/jeffrileydev?logo=twitter&style=for-the-badge" alt="jeffrileydev" /></a> </p>
 
-- 🔭 I’m currently working on [Code Wars](https://github.com/jeffrileydev/code-wars)
+- 🔭 I’m currently working on my Wine and Beverage App!
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 ...and working on my **100 Hours Project**
+- 👯 ...and constantly working on my [Code Wars](https://github.com/jeffrileydev/code-wars)
 
 - 👨‍💻 All of my projects are available at [jeffriley.dev](jeffriley.dev)
 
